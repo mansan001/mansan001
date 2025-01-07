@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Manolet
 
+✍ About Me
+
+I am currently a 4th year student at Bulacan State University, I study BSIT Major in Web and Mobile Development. I am passionate about QA and Tech Support
+
+- 🌱 I’m currently learning ReactJS for structure and Selenium IDE for testing
+- 📫 How to reach me: manolet.work@gmail.com
 <!--
 **mansan001/mansan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
