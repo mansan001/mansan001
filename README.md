@@ -2,7 +2,7 @@
 
 ✍ About Me
 
-<p style="text-align: center;"> I am currently a 4th year student at Bulacan State University, I study BSIT Major in Web and Mobile Development. I am passionate about QA and Tech Support </p>
+I am currently a 4th year student at Bulacan State University, I study BSIT Major in Web and Mobile Development. I am passionate about QA and Tech Support
 
 - 🌱 I’m currently learning ReactJS for structure and Selenium IDE for testing
 - 📫 How to reach me: manolet.work@gmail.com
